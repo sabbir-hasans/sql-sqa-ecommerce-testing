@@ -20,7 +20,7 @@ Default database connection in `config/database.php`:
 - Host: `127.0.0.1`
 - Database: `sql_sqa_project`
 - User: `root`
-- Password: empty
+- Password: `SqaProject@123`
 
 If your XAMPP MySQL password is different, update `config/database.php`.
 
